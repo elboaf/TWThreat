@@ -1,3 +1,5 @@
+tank mode permenantly enabled, tank mode window permenantly hidden, added globally accessible tank mode threat table that other addons can access.
+
 # TWThreat v1.3.0
 Threat Meter for Turtle WoW
 <br>
